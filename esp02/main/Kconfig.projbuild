@@ -2,13 +2,13 @@ menu "Project's Wifi Configuration"
 
 	config ESP_WIFI_SSID
 		string "WiFi SSID"
-        default "CLARO_2G_306"
+				default "ssid"
 		help
 			WiFi network's name.
 
 	config ESP_WIFI_PASSWORD
 		string "WiFi password"
-        default "38275D30"
+				default "minha_senha"
 		help
 			WiFi password (WPA or WPA2).
 

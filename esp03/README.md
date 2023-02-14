@@ -35,7 +35,7 @@ Os seguintes pinos são usados:
 
 O projeto depende de uma instalação válida dos seguintes softwares:
 
-- `esp-idf v4.4.2-288-gc070c58ef3`
+[ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/v5.0/esp32/get-started/index.html)
 
 ### Instruções de compilação
 
